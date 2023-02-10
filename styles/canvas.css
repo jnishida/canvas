@@ -1,0 +1,6 @@
+canvas#canvas {
+    background: darkgray;
+    border: solid 1px black;
+    width: 1024px;
+    height: 768px;
+}
